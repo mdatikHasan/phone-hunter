@@ -1,0 +1,10 @@
+#emtry-search{
+    display: none;
+    text-align: center;
+    color: red;
+}
+#not-found{
+    display: none;
+    text-align: center;
+    color: red;
+}
